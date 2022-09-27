@@ -5,15 +5,16 @@
 }
 
 body{
-    font-size: 30px;
-    background-color: rgb(243, 246, 248);
-    
+    font-size: 20px;
+    background-color: rgb(243, 246, 248); 
 }
+
 header{
     padding: 10px 10px;
-  background-color: white;
-  
+    background-color: white;
 }
+
+
 h1{
     display: inline;
 }
@@ -29,8 +30,7 @@ h1{
 section{
     margin: 0;
     padding: 20px 50px ;
-    border-bottom: 5px solid rgb(243, 246, 248);
-   
+    border-bottom: 5px solid rgb(243, 246, 248);   
 }
 
 /* Button look */
@@ -41,6 +41,7 @@ button{
     border-radius: 6px;
     font-size: 15px;
 }
+
 .blue-button{
     background-color: rgb(59, 155, 237);
     color: white;
@@ -53,3 +54,61 @@ button{
     border: 2px solid rgb(185, 192, 197);
 }
 
+p{
+    margin-bottom: 40px;
+}
+
+h3{
+    margin-bottom: 25px;
+}
+
+.cross-mark,.check-mark{
+    border-radius: 50%;
+}
+
+.check-mark{
+    color: rgb(92, 186, 159);
+    border: 2px solid rgb(92, 186, 159);
+    padding: 2px 5px;
+}
+
+.cross-mark{
+    color: rgb(228, 64, 64);
+    border: 2px solid rgb(228, 64, 64);
+    padding: 2px 8px;
+}
+
+div{
+    margin-bottom: 30px;
+}
+    /* type-box form */
+.type-box{
+    color: white;
+    font-size: 15px;
+    padding: 8px 15px;
+    border-radius: 20px;
+}
+    /* Color editorial */
+.editorial{
+    background-color: rgb(57, 153, 228);
+}
+
+.q1-goals{
+    background-color: rgb(137, 87, 221);
+}
+
+.recruiting{
+    background-color: rgb(84, 182, 153);
+}
+
+.mobile{
+    background-color: rgb(236, 141, 40);
+}
+
+.website{
+    background-color: rgb(205, 73, 144);
+}
+
+.sale{
+    background-color: rgb(161, 193, 29);
+}
