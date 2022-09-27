@@ -33,6 +33,7 @@ section{
     border-bottom: 5px solid rgb(243, 246, 248);   
 }
 
+
 /* Button look */
 button{
     height: 40px;
@@ -54,6 +55,7 @@ button{
     border: 2px solid rgb(185, 192, 197);
 }
 
+
 p{
     margin-bottom: 40px;
 }
@@ -62,6 +64,8 @@ h3{
     margin-bottom: 25px;
 }
 
+
+    /* check and cross form */
 .cross-mark,.check-mark{
     border-radius: 50%;
 }
@@ -81,6 +85,8 @@ h3{
 div{
     margin-bottom: 30px;
 }
+
+
     /* type-box form */
 .type-box{
     color: white;
@@ -88,7 +94,9 @@ div{
     padding: 8px 15px;
     border-radius: 20px;
 }
-    /* Color editorial */
+
+
+    /* Color type-box */
 .editorial{
     background-color: rgb(57, 153, 228);
 }
