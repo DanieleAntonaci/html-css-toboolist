@@ -14,9 +14,13 @@ header{
     background-color: white;
 }
 
+header img{
+    vertical-align: middle;
+}
 
 h1{
     display: inline;
+    vertical-align: middle;
 }
 
 #container{
